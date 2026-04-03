@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - Heidelberg - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 04:15:09 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
@@ -34,16 +34,18 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title><pubDate>2026-04-02T18:30:00</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title><pubDate>2026-04-02T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -362,16 +364,18 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1203,6 +1207,37 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-03&amp;time=1777816800</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369e</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>The Art of Hand Spinning</b> - 05/03/2026 2:00pm EDT to 05/03/2026 3:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Clay St, Tiffin, OH 44883, USA</b> 
+
+ This program will include spinning demonstrations by Joan Webster and Kim (Mathias) Howard.]]></description>
+            <link>https://senecacountyohio.org/events/the-art-of-hand-spinning</link>
+            <guid isPermaLink="false">69961cc7acf108ebebc422ac</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Seneca County Museum]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F7efd819a-62b4-4714-b07c-75b4ab0fd39a.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
