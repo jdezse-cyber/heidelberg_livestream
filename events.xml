@@ -4,10 +4,10 @@
         <description><![CDATA[RSS Feed - Heidelberg - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 04:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 04:15:11 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69bd5895ab62204518f2e6cc" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
+            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Please call 419-448-9774 or come in with questions or to sign up.]]></description>
@@ -16,10 +16,11 @@
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title><pubDate>2026-04-02T09:00:00</pubDate>
+            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title><pubDate>2026-04-05T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
 
  Spring Craft Show this Saturday 4/5/25 9-3pm]]></description>
@@ -34,7 +35,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title><pubDate>2026-04-02T10:00:00</pubDate>
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title><pubDate>2026-04-11T17:00:00</pubDate>
             <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
  Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
@@ -49,33 +50,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Hop on over to Fitch Homestead Farm Stand + Shirley’s Coffee!</b> - 04/03/2026 8:00am EDT to 04/03/2026 12:00pm EDT]]></title><pubDate>2026-04-03T08:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1925 W County Rd 26, Tiffin, OH 44883, USA</b> 
-
- Hop on over to Fitch Homestead Farm Stand!  Join us for a fun-filled Easter visit with the Easter Bunny from 10 AM – 12 PM!  Bring the kiddos for a special meet & greet   Grab a delicious cup of Shirley’s Coffee   Stock up on festive Easter treats Make it an easy, one-stop stop for smiles, sweets, and springtime fun!  Fitch Homestead Farm Stand We can’t wait to see you there!]]></description>
-            <link>https://www.facebook.com/events/800401789432779</link>
-            <guid isPermaLink="false">69ccf3fdeb49e28d53e79ee3</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fitch Homestead Farmstand]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660861840_122242916594249271_230580263668612657_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Financial Fitness Friday</b> - 04/03/2026 8:30am EDT to 04/03/2026 5:00pm EDT]]></title><pubDate>2026-04-03T08:30:00</pubDate>
-            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
-
- Join our Financial Counselor Rusti Claydon for Financial Fitness Friday, a new monthly event for our membership for FREE walk-in assistance and education surrounding your financial concerns! The first Friday of each month, Rusti has cleared her schedule to allow for members of the credit union to stop in and ask questions about their situation, ask for insights into how we can assist and how to better utilize Your Legacy Federal Credit Union offerings to their benefit! Not a member? Rusti can get you started with just a $5 minimum initial share. See you there!]]></description>
-            <link>https://www.facebook.com/events/392023563979008/606124745902221</link>
-            <guid isPermaLink="false">68958c7914638467a6e914e0</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/04/2026 9:00am EDT to 04/04/2026 2:00pm EDT]]></title><pubDate>2026-04-04T09:00:00</pubDate>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/04/2026 9:00am EDT to 04/04/2026 2:00pm EDT]]></title><pubDate>2026-04-04T14:00:00</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
@@ -88,7 +63,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>ACO Regional Tiffin, OH</b> - 04/04/2026 3:30pm EDT to 04/04/2026 4:30pm EDT]]></title><pubDate>2026-04-04T15:30:00</pubDate>
+            <title><![CDATA[<b>ACO Regional Tiffin, OH</b> - 04/04/2026 3:30pm EDT to 04/04/2026 4:30pm EDT]]></title><pubDate>2026-04-04T16:30:00</pubDate>
             <description><![CDATA[<b>Location : 49 E Perry St, Tiffin, OH 44883, USA</b> 
 
  ACO Season 21 Regional- Tiffin, OH Date: April 4, 2026 Location: Knights of Columbus Address: 49 E. Perry St. Tiffin, OH 44883 Registration: 3pm Start Time: 3:30pm Division: World Doubles, Singles Entry Fee: TBA Payout: TBD Contact Information: Brayden Elchert: 419-618-0883 or belchert111@gmail.com   MEMBERSHIP INFORMATION ACO Starter Membership - FREE * No cost to join * Pays full retail price on all tournament tickets • Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Player Membership - $30 * Discounted tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Worlds Membership - $60 * Best available tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies * Prize jerseys * Weekly prize opportunities (e.g., bag giveaways) * 500 bonus points awarded at signup (Singles Divisions only) BAG POLICY  Only ACO Stamped bags manufactured by ACO Season 21 Bag Partners can be used in any ACO Divisions * *NOTE* Older models of ACO stamped bags may be used if the bag manufacturer is still an ACO Bag Partner for ACO Season 21 For complete details, visit the ACO Calendar on AmericanCornhole.com. Click the link below: https://players.americancornhole.com/tournamen.../index/2...]]></description>
@@ -101,7 +76,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title><pubDate>2026-04-05T11:00:00</pubDate>
+            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title><pubDate>2026-04-05T14:30:00</pubDate>
             <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
 
  Join us for our Easter buffet celebration, featuring an array of breakfast favorites including eggs, bacon, sausage, biscuits, and gravy, alongside lunch options such as ham, chicken, pasta, and potatoes. A selection of assorted salads and desserts will also be available. To secure your reservation, please call 419-447-8325 or book online through OpenTable.]]></description>
@@ -115,7 +90,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>2026-04-06T18:00:00</pubDate>
+            <title><![CDATA[<b>"Still Life Arrangement & Painting"  Mondays, April 6th and 13th, 6pm-9pm #04062602</b> - 04/06/2026 6:00pm EDT to 04/13/2026 9:00pm EDT]]></title><pubDate>2026-04-13T21:00:00</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by March 30th. Paint your own still life with your favorite item and fruit or flowers. You will paint in water-mixable oils with Carol Hoffman on two Mondays April 6th and 13th from 6pm-9pm. These are 3 hour classes. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the canvas are included in the price of the class. Cost is $70 for TAG members & $80 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -128,7 +103,20 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>The Blueprint Series - April Coffee Chat</b> - 04/09/2026 8:30am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T08:30:00</pubDate>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title><pubDate>2026-04-07T01:00:00</pubDate>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
+            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>The Blueprint Series - April Coffee Chat</b> - 04/09/2026 8:30am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 40 E Perry St, Tiffin, OH 44883, USA</b> 
 
  We’re excited to invite you to an upcoming Coffee Chat focused on: RMD Strategies & Retirement Income What to Know Before You Are Forced to Withdraw Whether you're approaching retirement or already there, understanding Required Minimum Distributions (RMDs) is key to protecting your income and minimizing taxes.  Thursday, April 9th   8:30 AM – 10:00 AM  40 E Perry St, Tiffin, OH Enjoy a relaxed morning with coffee, conversation, and practical financial insights you can actually use. This event is open to the public.]]></description>
@@ -140,7 +128,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>ServSafe Manager Class</b> - 04/09/2026 9:00am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T09:00:00</pubDate>
+            <title><![CDATA[<b>ServSafe Manager Class</b> - 04/09/2026 9:00am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  2-day ServSafe Manager Class with Exam]]></description>
@@ -153,7 +141,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>"Barn on the Hill"  Thursday, April 9, 2026 10am-1pm or 6pm-9pm #04092601 or 04092602</b> - 04/09/2026 10:00am EDT to 04/09/2026 9:00pm EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
+            <title><![CDATA[<b>"Barn on the Hill"  Thursday, April 9, 2026 10am-1pm or 6pm-9pm #04092601 or 04092602</b> - 04/09/2026 10:00am EDT to 04/09/2026 9:00pm EDT]]></title><pubDate>2026-04-09T21:00:00</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by April 9. Paint "Barn on Hill" in water-mixable oils with Carol Hoffman on Thursday, April 9 from 10am until 1 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 9"x12" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -166,7 +154,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Seneca CEO Pitch Competition</b> - 04/09/2026 5:15pm EDT to 04/09/2026 6:15pm EDT]]></title><pubDate>2026-04-09T17:15:00</pubDate>
+            <title><![CDATA[<b>2026 Seneca CEO Pitch Competition</b> - 04/09/2026 5:15pm EDT to 04/09/2026 6:15pm EDT]]></title><pubDate>2026-04-09T18:15:00</pubDate>
             <description><![CDATA[<b>Location : Seneca County, OH, USA</b> 
 
  Save the date! We invite you to the 5th annual local Pitch Competition! Our young entrepreneurs will "swim with the sharks" as they pitch their business in just 2 minutes to a panel of judges. We welcome you to join us at 5:15 for networking and hors d'oeuvres. The presentation will begin promptly at 5:45. Please bring your colleague, friend, or anyone you may know who would be interested in watching our young entrepreneurs compete!]]></description>
@@ -178,7 +166,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Game Bird Workshop</b> - 04/09/2026 6:00pm EDT to 04/09/2026 7:00pm EDT]]></title><pubDate>2026-04-09T18:00:00</pubDate>
+            <title><![CDATA[<b>Game Bird Workshop</b> - 04/09/2026 6:00pm EDT to 04/09/2026 7:00pm EDT]]></title><pubDate>2026-04-09T19:00:00</pubDate>
             <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  Are you interested in raising pheasants, quail, or other game birds for sport, meat production, or conservation? This comprehensive workshop will provide you with the essential knowledge and practical skills needed to start and manage your own healthy flock. Whether you're a small-scale farmer, a future hunting preserve owner, or a hobbyist, join us to learn the best practices for successful game bird husbandry. This workshop is free but registration is required. Dinner will be provided starting at 5:30pm.]]></description>
@@ -191,7 +179,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Downtown Trivia Night at the Tiffin Eagles</b> - 04/09/2026 7:00pm EDT to 04/09/2026 8:30pm EDT]]></title><pubDate>2026-04-09T19:00:00</pubDate>
+            <title><![CDATA[<b>Downtown Trivia Night at the Tiffin Eagles</b> - 04/09/2026 7:00pm EDT to 04/09/2026 8:30pm EDT]]></title><pubDate>2026-04-09T20:30:00</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
@@ -205,7 +193,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Tennis & Pickleball Door Hanger Mixer</b> - 04/10/2026 1:00pm EDT to 04/10/2026 2:00pm EDT]]></title><pubDate>2026-04-10T13:00:00</pubDate>
+            <title><![CDATA[<b>Tennis & Pickleball Door Hanger Mixer</b> - 04/10/2026 1:00pm EDT to 04/10/2026 2:00pm EDT]]></title><pubDate>2026-04-10T14:00:00</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
 
  Get ready for spring and join your court-mates off the court and get crafty! No experience needed for this workshop. Instructions are provided in a studio environment to create your own DIY door hanger masterpiece!]]></description>
@@ -219,7 +207,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Learn to Make Dog Treats and Dog Food</b> - 04/10/2026 6:00pm EDT to 04/10/2026 7:30pm EDT]]></title><pubDate>2026-04-10T18:00:00</pubDate>
+            <title><![CDATA[<b>Learn to Make Dog Treats and Dog Food</b> - 04/10/2026 6:00pm EDT to 04/10/2026 7:30pm EDT]]></title><pubDate>2026-04-10T19:30:00</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Join us on April 10th from 6 PM to 7:30 PM to learn how to create homemade dog treats and nutritious meals for your furry friend. This fun and educational event is perfect for pet lovers looking to provide healthier options for their dogs! Led by Chef Alex Love and Chef Josh Herron. Cost is $30 per person]]></description>
@@ -233,7 +221,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>"White Trees"  Saturday, April 11, 2026 9am-1pm #04112601</b> - 04/11/2026 9:00am EDT to 04/11/2026 1:00pm EDT]]></title><pubDate>2026-04-11T09:00:00</pubDate>
+            <title><![CDATA[<b>"White Trees"  Saturday, April 11, 2026 9am-1pm #04112601</b> - 04/11/2026 9:00am EDT to 04/11/2026 1:00pm EDT]]></title><pubDate>2026-04-11T13:00:00</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by April 4th. Paint "White Trees" in acrylic with Carol Hoffman on Saturday, April 11 from 9 am until 1 pm. This is a 4 hour class. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 12x16" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $55 for TAG members & $65 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -247,7 +235,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/11/2026 9:00am EDT to 04/11/2026 2:00pm EDT]]></title><pubDate>2026-04-11T09:00:00</pubDate>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 04/11/2026 9:00am EDT to 04/11/2026 2:00pm EDT]]></title><pubDate>2026-04-11T14:00:00</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
@@ -260,7 +248,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>4th Annual F.A.C.T. Pound Out Cancer</b> - 04/11/2026 10:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T10:00:00</pubDate>
+            <title><![CDATA[<b>4th Annual F.A.C.T. Pound Out Cancer</b> - 04/11/2026 10:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  This is the 4th year for this event! We will have vendors and a kick butt silent auction! And don't forget POUND! What is POUND? Cardio drumming on steroids! BUT, it is for everybody and every BODY. From 4 years old to 100 years old, everyone can do it!! Buy a shirt, join in the Pound, check out the vendors and food trucks. Make a donation to F.A.C.T! For more info contact us via messenger or Jen at 419-618-4066]]></description>
@@ -273,7 +261,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T11:00:00</pubDate>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
@@ -287,7 +275,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T11:00:00</pubDate>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
@@ -303,7 +291,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T11:00:00</pubDate>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
@@ -316,7 +304,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T11:00:00</pubDate>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
@@ -331,7 +319,7 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T11:00:00</pubDate>
+            <title><![CDATA[<b>2026 Downtown Tiffin Chocolate Walk</b> - 04/11/2026 11:00am EDT to 04/11/2026 3:00pm EDT]]></title><pubDate>2026-04-11T15:00:00</pubDate>
             <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Downtown Tiffin Chocolate Walk Treat yourself to a sweet afternoon in downtown Tiffin at the Downtown Tiffin Chocolate Walk on Saturday, April 11, 2026 11:00AM-3:00PM Stroll from business to business and enjoy chocolate treats and samples at 20 participating downtown locations. This self-guided walk is a fun way to shop local, explore downtown, and enjoy a spring day filled with sweet stops along the way. Date: Saturday, April 11, 2026 Time: 11:00AM-3:00PM Location: Downtown Tiffin Tickets: $20 Tickets are limited and must be purchased in advance at: https://tinyurl.com/3aurxrm9 Gather your friends and enjoy a delicious stroll through Downtown Tiffin. Participating businesses are: Bailiwicks Coffee Company Soul Boutique Tiffin Art Guild SSG Ink The Chandelier Community Event Center The Poignon project The Empire Bistro The Social Cigar Reclaim it! Airbrush Beauty Reino's Pizza The Turntable Washington street outfitters The Secret Seamstress & Downtown Formals Pan Yan Bookstore Ink Element Studio HAPPY DAYS NUTRITION OF TIFFIN JAM’s Markets Simply Susan's GW'S Fine Food & Spirits FroZone Elmwood Assisted Living at the Shawhan]]></description>
@@ -344,6 +332,18 @@
             <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F622118786_122188523012439962_7570567009431355343_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69c6e556cc00c68ea3b0eda7</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>4th Annual Red Carpet Affair</b> - 04/11/2026 6:00pm EDT to 04/11/2026 10:00pm EDT]]></title><pubDate>2026-04-11T22:00:00</pubDate>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ - Women 21+ only - Limited to 150 tickets sold - Presale tickets only   - T-Town DJ will again be helping us get our dance on!   - Table length charcuterie board with heavy hors d’oeuvres   - Cash bar with signature drink   - Raffles/Silent Auctions/Games/50-50 - Photo Booth   - 360 Camera   - Proceeds to benefit local women’s nonprofits Sisters in Shelter and First Step along with St Francis Dementia Care   Ticket Sales: https://csjinitiatives.org/event/red-carpet-affair-2/]]></description>
+            <link>https://www.facebook.com/events/1327828804960980</link>
+            <guid isPermaLink="false">689d7ab6d9a541dbfc25d3e4</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[St. Francis Senior Ministries]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F609028759_10229605062620380_6329898163153270746_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -376,34 +376,6 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Hop on over to Fitch Homestead Farm Stand + Shirley’s Coffee!</b> - 04/03/2026 8:00am EDT to 04/03/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 1925 W County Rd 26, Tiffin, OH 44883, USA</b> 
-
- Hop on over to Fitch Homestead Farm Stand!  Join us for a fun-filled Easter visit with the Easter Bunny from 10 AM – 12 PM!  Bring the kiddos for a special meet & greet   Grab a delicious cup of Shirley’s Coffee   Stock up on festive Easter treats Make it an easy, one-stop stop for smiles, sweets, and springtime fun!  Fitch Homestead Farm Stand We can’t wait to see you there!]]></description>
-            <link>https://www.facebook.com/events/800401789432779</link>
-            <guid isPermaLink="false">69ccf3fdeb49e28d53e79ee3</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fitch Homestead Farmstand]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660861840_122242916594249271_230580263668612657_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Financial Fitness Friday</b> - 04/03/2026 8:30am EDT to 04/03/2026 5:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
-
- Join our Financial Counselor Rusti Claydon for Financial Fitness Friday, a new monthly event for our membership for FREE walk-in assistance and education surrounding your financial concerns! The first Friday of each month, Rusti has cleared her schedule to allow for members of the credit union to stop in and ask questions about their situation, ask for insights into how we can assist and how to better utilize Your Legacy Federal Credit Union offerings to their benefit! Not a member? Rusti can get you started with just a $5 minimum initial share. See you there!]]></description>
-            <link>https://www.facebook.com/events/392023563979008/606124745902221</link>
-            <guid isPermaLink="false">68958c7914638467a6e914e0</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F497614897_1525578798779282_3925147418759370221_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -461,6 +433,20 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653870388_1562371052561450_5210371561081249600_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
+            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -713,6 +699,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-13</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e042199d</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Seneca County Human Resources Association | April Meeting</b> - 04/14/2026 11:45am EDT to 04/14/2026 1:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 45 St Lawrence Dr, Tiffin, OH 44883, USA</b> 
 
@@ -727,6 +727,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-16</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a1</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -735,7 +749,7 @@
             <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -1069,17 +1083,45 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Annual Community Earth Day Event</b> - 04/26/2026 1:00pm EDT to 04/26/2026 4:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
+
+ Lots of raffle drawings! Bring your bags of aluminum cans to recycle! Lots of hands on Activity Stations! FREE fun for the entire family! Bagged Aluminum Cans can be dropped off at the Seeds of Hope Farm Pavilion between Friday, April 24 - Sunday, April 26. Participating Organizations Include: -Franciscan Earth Literacy Center -Tiffin Parks and Recreation, -Seneca County Park District -Tiffin Water Pollution Control Center -Seneca Conservation District -Glass Roots -OSS Solid Waste District -Columbian High School Bio Club -Sisters of Francis Mission Core Team -National Center for Water Quality Research at Heidelberg University -OSU Ext Master Gardeners Volunteer Program of Seneca County]]></description>
+            <link>https://www.facebook.com/events/1253036787042657</link>
+            <guid isPermaLink="false">69cfed44524aea3b07ce5324</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Seneca Conservation District]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663225760_1363302282503507_5943686798177103740_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/27/2026 12:00am EDT to 04/27/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-27</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a5</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>The Fabulous Fifties</b> - 04/28/2026 10:30am EDT to 04/28/2026 11:30am EDT]]></title>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
- OPEN TO THE PUBLIC Pre-registration required Please call 419-448-9774 or stop in for more information.]]></description>
+ Join us for "The Fabulous Fifties," an exciting event open to the public! Pre-registration is required, so please call 419-448-9774 or stop by for more information. Don't miss out on this nostalgic celebration!]]></description>
             <link>https://www.facebook.com/events/1457669482373460</link>
             <guid isPermaLink="false">69a347e13a0cb6104c176e9b</guid>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
             <category><![CDATA[History & Museums]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643856857_1405669568261740_7702919437824574405_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643856857_1405669568261740_7702919437824574405_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69b52842682feef722061070</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -1095,6 +1137,20 @@
             <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656003084_950418864024849_4540953365123594238_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-30</link>
+            <guid isPermaLink="false">69cf8dd8569ab2f3e04219ab</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
